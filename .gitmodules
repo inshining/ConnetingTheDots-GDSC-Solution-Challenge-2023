@@ -13,3 +13,6 @@
 [submodule "dot-connect-python-server"]
 	path = dot-connect-python-server
 	url = https://github.com/inshining/dot-connect-python-server.git
+[submodule "dot-connect"]
+	path = dot-connect
+	url = https://github.com/minukHwang/dot-connect
