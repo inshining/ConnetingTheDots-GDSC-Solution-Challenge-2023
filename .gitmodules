@@ -7,3 +7,9 @@
 [submodule "dot_connect_flutter"]
 	path = dot_connect_flutter
 	url = https://github.com/gdsc-ys/dot_connect_flutter.git
+[submodule "dot-connect-server"]
+	path = dot-connect-server
+	url = https://github.com/gdsc-ys/dot-connect-server.git
+[submodule "dot-connect-python-server"]
+	path = dot-connect-python-server
+	url = https://github.com/inshining/dot-connect-python-server.git
