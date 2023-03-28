@@ -3,7 +3,7 @@
 |                         Hyunmin Yoo                          |                         Minuk Hwang                          |                         Youngjin Ahn                         |                          Inyeob Kim                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  <img width="160" alt="image" src="./assets/hyunmin.jpeg">   |   <img width="160" alt="image" src="./assets/minuk.jpeg">    |  <img width="160" alt="image" src="./assets/youngjin.jpg">   |   <img width="160" alt="image" src="./assets/inyeop.jpeg">   |
-| [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png">uhmin99](https://github.com/uhmin99) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png">minukHwang](https://github.com/minukHwang) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png">snoop2head](https://github.com/snoop2head) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png">inshining](https://github.com/inshining) |
+| [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> uhmin99](https://github.com/uhmin99) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> minukHwang](https://github.com/minukHwang) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> snoop2head](https://github.com/snoop2head) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> inshining](https://github.com/inshining) |
 
 
 
