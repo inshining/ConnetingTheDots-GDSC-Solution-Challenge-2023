@@ -1,0 +1,6 @@
+[submodule "DotNeuralNet"]
+	path = DotNeuralNet
+	url = https://github.com/snoop2head/DotNeuralNet.git
+[submodule "DotT5"]
+	path = DotT5
+	url = https://github.com/snoop2head/DotT5.git
