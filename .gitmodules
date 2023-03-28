@@ -4,3 +4,6 @@
 [submodule "DotT5"]
 	path = DotT5
 	url = https://github.com/snoop2head/DotT5.git
+[submodule "dot_connect_flutter"]
+	path = dot_connect_flutter
+	url = https://github.com/gdsc-ys/dot_connect_flutter.git
