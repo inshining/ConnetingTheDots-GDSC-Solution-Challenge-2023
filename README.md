@@ -64,15 +64,21 @@ Our app offers two modes for better user experience and accessibility:
 <a name="in-app"></a>
 ## <img width="20" alt="image" src="./assets/logo_big.png"> In-App Screens
 
-<video src="https://user-images.githubusercontent.com/67991188/229131643-bbfa072b-7ec6-4d58-b74e-54b2d94b873f.mp4"></video>
+### Splash & Login
+<img src="https://user-images.githubusercontent.com/67991188/229133549-c6300516-51ca-4d44-ae49-d415d18c4175.gif">
 
-<video src="https://user-images.githubusercontent.com/67991188/229131712-674b2259-2f63-48f0-bf53-b3da376e7666.mp4"></video>
+### Translate Braille
+<img src="https://user-images.githubusercontent.com/67991188/229133666-2588f389-ea91-4cbe-a084-f6863c430b4e.gif">
 
-<video src="https://user-images.githubusercontent.com/67991188/229131741-d77d9c32-288b-4604-a5a0-378e68595d2e.mp4"></video>
+### Braille Dictionary
+<img src="https://user-images.githubusercontent.com/67991188/229133693-b132410c-7582-49a3-8888-543b4135a697.gif">
 
-<video src="https://user-images.githubusercontent.com/67991188/229131781-32a35dce-557b-4788-bc6f-5da92016714f.mp4"></video>
+### Report Braille
+<img src="https://user-images.githubusercontent.com/67991188/229133703-df92765a-4a6d-4235-b35f-13743d33209c.gif">
 
-<video src="https://user-images.githubusercontent.com/67991188/229131822-b5a9d46f-5af3-461d-ac3a-a7e80f64128b.mp4"></video>
+### Detail Mode
+<img src="https://user-images.githubusercontent.com/67991188/229133714-003bf3f6-feb8-417f-b313-4fff64d2f315.gif">
+
 
 </br>
 
