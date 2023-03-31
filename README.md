@@ -64,15 +64,15 @@ Our app offers two modes for better user experience and accessibility:
 <a name="in-app"></a>
 ## <img width="20" alt="image" src="./assets/logo_big.png"> In-App Screens
 
-<video src="./demo_video/start_login.mp4"></video>
+<video src="https://user-images.githubusercontent.com/67991188/229131643-bbfa072b-7ec6-4d58-b74e-54b2d94b873f.mp4"></video>
 
-<video src="./demo_video/translate_cam.mp4"></video>
+<video src="https://user-images.githubusercontent.com/67991188/229131712-674b2259-2f63-48f0-bf53-b3da376e7666.mp4"></video>
 
-<video src="./demo_video/braille_dict.mp4"></video>
+<video src="https://user-images.githubusercontent.com/67991188/229131741-d77d9c32-288b-4604-a5a0-378e68595d2e.mp4"></video>
 
-<video src="./demo_video/report_braille.mp4"></video>
+<video src="https://user-images.githubusercontent.com/67991188/229131781-32a35dce-557b-4788-bc6f-5da92016714f.mp4"></video>
 
-<video src="./demo_video/detail_mode.mp4"></video>
+<video src="https://user-images.githubusercontent.com/67991188/229131822-b5a9d46f-5af3-461d-ac3a-a7e80f64128b.mp4"></video>
 
 </br>
 
