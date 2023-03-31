@@ -13,9 +13,12 @@ Our app aims to make braille more approachable and to encourage a well-coexistin
 ### Table of Content
 
 - [Introduction](#introduction)
+- [Installation](#install)
 - [Features](#features)
 - [Usage](#usage)
+- [In-App Screens](#in-app)
 - [Future Plans](#future-plans)
+- [Project Structure](#structure)
 - [Contributors](#team-members)
 - [License](#license)
 
@@ -25,6 +28,15 @@ Our app aims to make braille more approachable and to encourage a well-coexistin
 ## 🔎 Introduction
 
 Connect-the-Dots is an innovative mobile application aimed at bridging the gap between sighted and visually impaired individuals by increasing braille awareness and accessibility. Our solution addresses the challenges of inaccurate and insufficient braille in public spaces, promoting a more inclusive environment for everyone.
+
+</br>
+
+<a name="install"></a>
+## 📂 Installation
+
+Downlad APK for android [HERE](https://drive.google.com/file/d/1E8bA4USMCyfeo7sZTLlj5UNWw3JewiZR/view?usp=sharing).
+
+If you wish to build codes locally, please visit each repositories for detailed descriptions.
 
 </br>
 
@@ -49,12 +61,34 @@ Our app offers two modes for better user experience and accessibility:
 
 </br>
 
+<a name="in-app"></a>
+## <img width="20" alt="image" src="./assets/logo_big.png"> In-App Screens
+
+<video src="./demo_video/start_login.mp4"></video>
+
+<video src="./demo_video/translate_cam.mp4"></video>
+
+<video src="./demo_video/braille_dict.mp4"></video>
+
+<video src="./demo_video/report_braille.mp4"></video>
+
+<video src="./demo_video/detail_mode.mp4"></video>
+
+</br>
+
 <a name="future-plans"></a>
 ## 🔮 Future Plans
 
 1. Improve braille detection and translation accuracy.
 2. Expand supported languages for braille translation.
 3. Collaborate with government and companies to address reported issues with braille in public spaces.
+
+</br>
+
+<a name="structure"></a>
+## 🛠 Project Structure
+
+<img alt="image" src="./assets/connecting-the-dot.drawio.png">
 
 </br>
 
@@ -83,6 +117,3 @@ Our app offers two modes for better user experience and accessibility:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
- <!-- <img width="20" alt="image" src="./assets/logo_big.png"> -->
