@@ -24,10 +24,20 @@ Our app aims to make braille more approachable and to encourage a well-coexistin
 
 </br>
 
+------
+
 <a name="introduction"></a>
 ## 🔎 Introduction
 
 Connect-the-Dots is an innovative mobile application aimed at bridging the gap between sighted and visually impaired individuals by increasing braille awareness and accessibility. Our solution addresses the challenges of inaccurate and insufficient braille in public spaces, promoting a more inclusive environment for everyone.
+
+### UN Sustainable Development Goals
+
+- Goals 4 - Quality Education
+- Goals 10 - Reduced Inequalities
+
+<img width="80" alt="image" src="./assets/goal-04_960.png">
+<img width="80" alt="image" src="./assets/goal-10_960.png">
 
 </br>
 
