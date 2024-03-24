@@ -1,8 +1,10 @@
 # Connecting-the-Dots: Braille Accessibility App
 
-<img alt="image" src="./assets/solutionchallenge-2023-Website-EventBanners_Full.png">
+### [Global Top 100! Solution Challenge 2023](https://developers.google.com/community/gdsc-solution-challenge/winners?hl=ko)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=%20Connecting-the-Dots%20&desc=Make%20Braille%20Easier&fontSize=30&textBg=true&fontAlign=25&descAlign=65&descAlignY=65&descSize=24)
+<img alt="image" src="./assets/top100.png">
+
+<img alt="image" src="./assets/solutionchallenge-2023-Website-EventBanners_Full.png">
 
 Welcome to Connect-the-Dots, a mobile application designed to enhance braille awareness and accessibility for both visually impaired and sighted individuals.
 
