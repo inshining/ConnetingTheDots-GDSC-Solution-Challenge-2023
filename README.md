@@ -10,6 +10,9 @@ Welcome to Connect-the-Dots, a mobile application designed to enhance braille aw
 
 Our app aims to make braille more approachable and to encourage a well-coexisting society.
 
+This is our Youtube video introducing Connecting-the-Dots Project.
+[https://youtu.be/lPTpxum68d4?si=5PDGBs5znT_Ydjrk](https://youtu.be/lPTpxum68d4?si=5PDGBs5znT_Ydjrk)
+
 </br>
 
 ### Table of Content
@@ -49,6 +52,7 @@ Connect-the-Dots is an innovative mobile application aimed at bridging the gap b
 Downlad APK for android [HERE](https://drive.google.com/file/d/1E8bA4USMCyfeo7sZTLlj5UNWw3JewiZR/view?usp=sharing).
 
 If you wish to build codes locally, please visit each repositories for detailed descriptions.
+
 
 </br>
 
