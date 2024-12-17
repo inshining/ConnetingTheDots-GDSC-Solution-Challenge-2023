@@ -5,7 +5,7 @@
 
 [<img width="700" alt="image" src="https://img.youtube.com/vi/lPTpxum68d4/hqdefault.jpg">](https://www.youtube.com/watch?v=lPTpxum68d4)
 
-Welcome to Connecting-the-Dots, a mobile application designed to enhance Braille awareness and accessibility for both visually impaired and sighted individuals. Above is our Youtube video introducing the Connecting-the-Dots Project.
+Welcome to Connecting-the-Dots, **a mobile application designed to enhance Braille awareness and accessibility for both visually impaired and sighted individuals**. Above is our Youtube video introducing the Connecting-the-Dots Project.
 
 </br>
 
