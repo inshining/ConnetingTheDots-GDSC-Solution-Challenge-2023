@@ -1,17 +1,11 @@
 # Connecting-the-Dots: Braille Accessibility App
 
-### [Global Top 100! Solution Challenge 2023](https://developers.google.com/community/gdsc-solution-challenge/winners?hl=ko)
+### [GDSC Solution Challenge 2023 Global Top 100](https://developers.google.com/community/gdsc-solution-challenge/winners)
 
-<img alt="image" src="./assets/top100.png">
 
-<img alt="image" src="./assets/solutionchallenge-2023-Website-EventBanners_Full.png">
+[<img width="700" alt="image" src="https://img.youtube.com/vi/lPTpxum68d4/hqdefault.jpg">](https://www.youtube.com/watch?v=lPTpxum68d4)
 
-Welcome to Connect-the-Dots, a mobile application designed to enhance braille awareness and accessibility for both visually impaired and sighted individuals.
-
-Our app aims to make braille more approachable and to encourage a well-coexisting society.
-
-This is our Youtube video introducing Connecting-the-Dots Project.
-[https://youtu.be/lPTpxum68d4?si=5PDGBs5znT_Ydjrk](https://youtu.be/lPTpxum68d4?si=5PDGBs5znT_Ydjrk)
+Welcome to Connecting-the-Dots, a mobile application designed to enhance Braille awareness and accessibility for both visually impaired and sighted individuals. Above is our Youtube video introducing the Connecting-the-Dots Project.
 
 </br>
 
@@ -118,7 +112,7 @@ Our app offers two modes for better user experience and accessibility:
 ## 👥 Contribution & Repository Structure
 
 
-|                         Hyunmin Yoo                          |                         Minuk Hwang                          |                         Youngjin Ahn                         |                          Inyeob Kim                          |
+|                         Hyunmin Yoo                          |                         Minuk Hwang                          |                         Young Jin Ahn                         |                          Inyeob Kim                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  <img width="160" alt="image" src="./assets/hyunmin.jpeg">   |   <img width="160" alt="image" src="./assets/minuk.jpeg">    |  <img width="160" alt="image" src="./assets/youngjin.jpg">   |   <img width="160" alt="image" src="./assets/inyeop.jpeg">   |
 | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> uhmin99](https://github.com/uhmin99) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> minukHwang](https://github.com/minukHwang) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> snoop2head](https://github.com/snoop2head) | [<img width="18" alt="image" src="./assets/GitHub-Mark-Light-64px.png"> inshining](https://github.com/inshining) |
@@ -130,7 +124,7 @@ Our app offers two modes for better user experience and accessibility:
 
 - Flutter by Hyunmin Yoo available [@dot_connect_flutter](https://github.com/gdsc-ys/dot_connect_flutter)
 - Server by Inyeob Kim available [@dot-connect-server](https://github.com/gdsc-ys/dot-connect-server) and [@dot-connect-python-server](https://github.com/inshining/dot-connect-python-server/)
-- ML by Youngjin Ahn available [@DotT5](https://github.com/snoop2head/DotT5/) and [@DotNeuralNet](https://github.com/snoop2head/DotNeuralNet)
+- Machine Learning by Young Jin Ahn available [@DotT5](https://github.com/snoop2head/DotT5/) and [@DotNeuralNet](https://github.com/snoop2head/DotNeuralNet)
 - Design and Web by Minuk Hwang available [@dot-connect](https://github.com/minukHwang/dot-connect/)
 
 </br>
